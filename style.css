@@ -1,3 +1,7 @@
-h1{
-font-family: "arial";
+
+.wittgenstein-<uniquifier> {
+  font-family: "Wittgenstein", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
